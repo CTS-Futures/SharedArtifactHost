@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/CTS-Futures/SharedArtifactHost/releases/download/v1.0.0-alpha02/Shared-1.0.0-alpha02.xcframework.zip",
-         checksum:"4f25536177e144553d572ce3c4309b967ba9012551d1866d597458123240b9e2")
+         url: "https://github.com/CTS-Futures/SharedArtifactHost/releases/download/v1.0.0/Shared-1.0.0.xcframework.zip",
+         checksum:"497bc370783cdd9c48b75ecceae0ab4ae3dac2f6a662e57187e54d94113ba234")
    ]
 )
